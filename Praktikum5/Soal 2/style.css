@@ -1,0 +1,75 @@
+h3 {
+font-family: 'Nunito', sans-serif;
+   color: white;
+   text-align: center;
+   font-size: 30px;
+}
+
+.Box {
+    background-color: rgba(178, 190, 195,0.8);
+    width: 600px;
+    height: 900px;
+    margin: 5px auto;
+    line-height: 10px;
+}
+
+h4 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    margin-left: 80px;
+}
+
+.FullName {
+    width: 450px;
+    margin-left: 80px;
+}
+
+.Email {
+    width: 450px;
+    margin-left: 80px;
+}
+
+.Age {
+    width: 450px;
+    margin-left: 80px;
+}
+
+.Date {
+    width: 450px;
+    margin-left: 80px;
+}
+
+.Card {
+    width: 450px;
+    margin-left: 80px;
+}
+
+select {
+    margin-left: 80px;
+    width: 450px;
+}
+
+.Laptop {
+    font-weight: bold;
+}
+   
+.Laptop1 {
+    width: 200px;
+}
+
+.Payment {
+    margin-left: 80px;;
+}
+
+.Brand {
+    margin-left: 80px;
+}
+
+.Submit {
+    width: 450px;
+    height: 40px;
+    margin-left: 80px;
+    margin-top: 20px;
+    background-color: rgb(77, 174, 77);
+    
+}
